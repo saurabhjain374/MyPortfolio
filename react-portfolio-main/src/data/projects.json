@@ -2,41 +2,33 @@
   {
     "title": "OnSolve",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Alerting and Mass communication services",
+    "skills": ["DotNetCore", "Azure", 
+    "AWS","Ansible","Kafka","GraphQL","ElasticSearch","React","PostGresSQL","MircoServices",
+    "Cutting-edge Technology","Distributed System"]
   },
   {
     "title": "ShopYaleHome",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "ECommerce App",
+    "skills": ["Kentico 9.0", "DotNet", "SQL","ASP.Net WebAPI", "Independent Player"]
   },
   {
     "title": "Tesseract",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Data Collection WebApp",
+    "skills": ["React", "Express", "Node"]
   },
   {
     "title": "Online Technology",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Banking Application",
+    "skills": ["Bank of America", "DotNetFramework", "SQL"]
   },
   {
     "title": "iON-Wellness",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["DotNetFramework", "SQL","WinForms","Cloud","Install Shield", "Centralised System","Team Lead"]
   }
 ]
