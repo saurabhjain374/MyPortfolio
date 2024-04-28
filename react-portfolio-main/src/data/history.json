@@ -4,7 +4,6 @@
     "organisation": "Nagarro",
     "startDate": "Jan, 2018",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/nagarro_3.ico"
   },
   {
@@ -12,7 +11,6 @@
     "organisation": "Shore Infotech Pvt Ltd",
     "startDate": "Jun, 2017",
     "endDate": "Jan, 2018",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
     "imageSrc": "history/shore.ico"
   },
   {
@@ -20,10 +18,6 @@
     "organisation": "Tata Consultancy Services",
     "startDate": "Feb, 2012",
     "endDate": "Jun, 2017",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
     "imageSrc": "history/tcs.ico"
   }
 ]
