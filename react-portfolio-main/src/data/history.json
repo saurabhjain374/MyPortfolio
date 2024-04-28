@@ -5,25 +5,25 @@
     "startDate": "Jan, 2018",
     "endDate": "Present",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/nagarro.png"
+    "imageSrc": "history/nagarro_3.ico"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
+    "role": "Senior Software Engineer",
+    "organisation": "Shore Infotech Pvt Ltd",
+    "startDate": "Jun, 2017",
+    "endDate": "Jan, 2018",
     "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/shore.ico"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "IT Analyst",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "Feb, 2012",
+    "endDate": "Jun, 2017",
     "experiences": [
       "Worked on component library",
       "Helped create UI components"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/tcs.ico"
   }
 ]
