@@ -9,10 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Saurabh</h1>
         <p className={styles.description}>
-        Full-stack .NET developer with 12 years of experience. Skilled in Microsoft .Net
-technologies - C#, Web API, MVC, WCF, WPF, Windows App, REST Services, SQL,
-Elastic Search, Kafka, Rabbit MQ, Postgres, Dot Net Core, EF Core, Redis, Docker,
-GitLab CICD
+         Technical Lead | Senior Developer | Full Stack Dot Net Developer | Dot Net Architect | Problem Solver
         </p>
         <a href="mailto:saurabhjain374@gmail.com" className={styles.contactBtn}>
           Contact Me

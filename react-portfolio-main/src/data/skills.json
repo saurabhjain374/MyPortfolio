@@ -1,19 +1,11 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "DotNet",
+    "imageSrc": "skills/dotnet.png"
   },
   {
     "title": "React",
     "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
   },
   {
     "title": "GraphQL",
@@ -22,9 +14,5 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]
