@@ -11,9 +11,6 @@ export const Hero = () => {
         <p className={styles.description}>
          Technical Lead | Senior Developer | Full Stack Dot Net Developer | Dot Net Architect | Problem Solver
         </p>
-        <a href="mailto:saurabhjain374@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
       <img
         src={getImageUrl("hero/Saurabh.png")}
